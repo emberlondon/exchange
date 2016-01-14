@@ -1,4 +1,4 @@
-# exchange
+# Ember London - Exchange
 
 Exchange is an initiative that seeks to create an Ember knowledge exchange channel across organizations, allowing teams/individuals to spend quality time
 at other organizations that use Ember.
